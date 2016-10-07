@@ -7,7 +7,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		
-		
+		System.out.println("Hello this is from git remote");
 		System.out.println("Hello World");
 	}
 
